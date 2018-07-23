@@ -1,3 +1,1 @@
-# Example-user-Interface-JavaFX
-This program is an example of how should be programme dan userinterfaxe with JavaFX
-The classes FuegosArtif and NavegadorPriv are provided by Oracle.
+-Código y presentacion con detalles tecnicos de lo que se pueyde hacer con JavaFX a nivel básico
